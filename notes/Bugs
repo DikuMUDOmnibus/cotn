@@ -1,0 +1,101 @@
+Sender  Dagon~
+Date    Mon Sep 28 05:06:41 2009~
+Stamp   1254128923
+Expire  1259312814
+To      immortal imm~
+Subject Weaponenhance~
+Text
+That item has already been oset by someone else.
+That item has already been oset by someone else.
+You bestow power into <============|XXXXD -=Plague=- through the Dark Ritual.
+You should change it to just adding the hit and dam
+to the item instead of osetting
+thats what i did on the last mcloud i worked at
+works better :D
+~
+
+Sender  Sejik~
+Date    Thu Oct  1 08:44:32 2009~
+Stamp   1254401139
+Expire  1259585080
+To      all imm~
+Subject curse~
+Text
+So anyways, a while ago I forged ivory hilts on to my weapons and got
+Cure Serious on them.  I dealt with it but just realized I am now
+cursing myself... :)
+ 
+Curse.
+You are affected by:
+Spell: 'cure serious' modifies save vs spell by 1 for 227 hours with bits curse.
+Spell: 'cure serious' modifies hit roll by -1 for 227 hours with bits curse.
+ 
+ 
+Just a small bug, probably a skill_table[] error...
+~
+
+Sender  Nemesis~
+Date    Mon Oct 12 09:32:36 2009~
+Stamp   1255354442
+Expire  1260538361
+To      imm~
+Subject exp~
+Text
+I think you might want to check the exp given again. I've
+been exping for at least 30 minutes and haven't made enough for a single
+convert yet, even with double exp on.
+~
+
+Sender  Nemesis~
+Date    Mon Oct 12 09:51:01 2009~
+Stamp   1255355637
+Expire  1260539466
+To      imm~
+Subject exp cont.~
+Text
+ok, now I'm suddenly getting good exp. In rooms where
+I was getting about 300k-350k average exp a room, I'm
+now suddenly getting about 750k. Not sure what changed
+or why I'm getting exp like that now.
+Maybe it was giving the minimum amount of exp for awhile
+or no double exp or something?
+~
+
+Sender  Nemesis~
+Date    Mon Oct 12 10:27:25 2009~
+Stamp   1255357732
+Expire  1260541656
+To      imm~
+Subject exp again~
+Text
+hmmm, now I'm getting about 250k-270k exp a room. Seems like
+it fluctuates a bunch and can't make up its mind where its
+going to settle at. Not really sure if its supposed
+to be like this or not, so figured I'd post one last
+time about it.
+~
+
+Sender  Nemesis~
+Date    Mon Oct 12 14:52:32 2009~
+Stamp   1255373631
+Expire  1260557555
+To      imm~
+Subject discipline~
+Text
+seems to have something wrong with it. Seth tried using
+it on wolf and demon, and couldn't get it to work so I
+made a test demon to check and it wouldn't work
+for me either. you can research, but it never goes up any
+so you are unable to train it.
+~
+
+Sender  Squirt~
+Date    Thu Nov 19 20:06:18 2009~
+Stamp   1258679189
+Expire  1263863184
+To      all imm~
+Subject dbl exp~
+Text
+dun work.....
+~
+

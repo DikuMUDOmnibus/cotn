@@ -1,0 +1,1771 @@
+295
+Cotn3 Re-Opened~
+Xrakisis~
+01/24/2006~
+Code~
+1138120649
+
+added port 4601 to the game monitor with mudmagic, every 15 minutes mudmagic will check to see if the mud is up, if not it will restart it.~
+Xrakisis~
+01/24/2006~
+Code~
+1138122905
+
+The Level of about 20 mobs whoes level was 3000+ lowered to 1000~
+Xrakisis~
+01/25/2006~
+Code~
+1138231059
+
+Ashur hired as a Coder.~
+Xrakisis~
+01/26/2006~
+Code~
+1138301416
+
+Tein hired as a Builder.~
+Xrakisis~
+01/26/2006~
+Code~
+1138301423
+
+Finished Boss mobs and made a special shop for better than average eq, hermes is the shop keeper and the boss mobs are in the mall.~
+Xrakisis~
+01/27/2006~
+Area~
+1138382062
+
+Lowered mall eq.~
+Xrakisis~
+01/30/2006~
+Area~
+1138677091
+
+now when you get decaped you keep your bones~
+Xrakisis~
+01/30/2006~
+Code~
+1138677110
+
+now with platinum bank membership max bones allowed is 10 million.~
+Xrakisis~
+01/31/2006~
+Code~
+1138738435
+
+the mall no longer has like 30 mobs a room, now more like 10~
+Xrakisis~
+02/01/2006~
+Area~
+1138836845
+
+Training spell colors a lot cheaper now.~
+Xrakisis~
+02/03/2006~
+Code~
+1138985332
+
+all the pelagon area resets deleted.~
+Xrakisis~
+02/03/2006~
+Area~
+1138987650
+
+cotn 2.5 Shut down. the classes and what not from there will be added to here.~
+Xrakisis~
+02/07/2006~
+Code~
+1139339162
+
+Drexx's Basic and Rare EQ In.~
+Xrakisis~
+02/07/2006~
+Code~
+1139367319
+
+elemental class in~
+Xrakisis~
+02/07/2006~
+Code~
+1139367633
+
+Elemshift in~
+Xrakisis~
+02/07/2006~
+Code~
+1139371995
+
+Paladin class added.~
+Xrakisis~
+02/07/2006~
+Code~
+1139376433
+
+fixed bits with rare/basic eq~
+Xrakisis~
+02/08/2006~
+Code~
+1139409254
+
+increased the number of items you can carry~
+Xrakisis~
+02/08/2006~
+Code~
+1139411575
+
+My Blade Master class put in.~
+Xrakisis~
+02/08/2006~
+Code~
+1139420672
+
+Rank in.. Adds damcap, hitroll, and damroll~
+Xrakisis~
+02/08/2006~
+Code~
+1139422420
+
+Call All should be fixed.~
+Xrakisis~
+02/09/2006~
+Code~
+1139497330
+
+Basic/Rare eq Fixed with help from Flurry~
+Xrakisis~
+02/09/2006~
+Code~
+1139508582
+
+Drexx's Identify and Objsell in.. go east of recall~
+Xrakisis~
+02/09/2006~
+Code~
+1139509429
+
+combatstyle, shield and weaponprac fixed for Blademasters~
+Xrakisis~
+02/09/2006~
+Code~
+1139512148
+
+lag and damage lowered on precision strike~
+Xrakisis~
+02/09/2006~
+Code~
+1139514893
+
+newbie mobs dont move from room to room anymore~
+Xrakisis~
+02/09/2006~
+Area~
+1139515185
+
+sigil elemental damage changed from brief2 to not see it to brief5~
+Xrakisis~
+02/09/2006~
+Code~
+1139515993
+
+Rank, Paladin and Elemental help files in.~
+Xrakisis~
+02/09/2006~
+Area~
+1139516806
+
+Rares/commoneq/Rareweapons load more often and now you can objsell rare weapons at blacksmith~
+Xrakisis~
+02/09/2006~
+Code~
+1139520200
+
+NO ATTACKING blademasters until furthar notice~
+Xrakisis~
+02/09/2006~
+Rule~
+1139534040
+
+Titanium eq Upgraded.~
+Xrakisis~
+02/10/2006~
+Area~
+1139588674
+
+Lag doubled on berserk~
+Xrakisis~
+02/10/2006~
+Code~
+1139588684
+
+fixed notes.. i forgot to put a notes folder with files for each board in the muds dir, so i put the folder from cotn 2.5 in and now our notes will write.. some old notes in there, diregard them~
+Xrakisis~
+02/10/2006~
+Code~
+1139595736
+
+gave flee lag~
+Xrakisis~
+02/10/2006~
+Code~
+1139598889
+
+elemental/blademaster masterys in~
+Xrakisis~
+02/10/2006~
+Area~
+1139616206
+
+30 more entrys added to affects.~
+Xrakisis~
+02/10/2006~
+Code~
+1139619503
+
+Fpush added in for Jedi note me if any problems~
+Ashur~
+02/10/2006~
+Code~
+1139624308
+
+religion added to who. woot!~
+Xrakisis~
+02/10/2006~
+Code~
+1139627362
+
+Health Rune added to gem shop 1s 1e 1s from recall... +1000 to hp~
+Xrakisis~
+02/12/2006~
+Code~
+1139760262
+
+Soulblade turning to basic eq bug fixed~
+Xrakisis~
+02/13/2006~
+Code~
+1139862565
+
+number range of price to ident is now 500-1000 not 500-2000~
+Xrakisis~
+02/13/2006~
+Code~
+1139881409
+
+membership bug should be fixxed~
+Drexx~
+02/13/2006~
+Code~
+1139885121
+
+objsell,ident prices fixxed~
+Drexx~
+02/13/2006~
+Code~
+1139885394
+
+Objselling other peoples rares no longer crashes the mud thanks to mine and Flurrys combined efforts.. heh~
+Drexx~
+02/13/2006~
+Code~
+1139887933
+
+your rares/basic no longer are autoset to being claimed on load.. for about 5 reasons i will not list~
+Drexx~
+02/13/2006~
+Code~
+1139888066
+
+can no longer bid on your own items in auction - Flurry~
+Drexx~
+02/14/2006~
+Code~
+1139949492
+
+Blademasters Rapidstrike is their opener and precision is their middy. Blademasters are now legal to kill!!~
+Xrakisis~
+02/15/2006~
+Code~
+1140042688
+
+precision for blademasters renamed pstrike~
+Xrakisis~
+02/15/2006~
+Code~
+1140059012
+
+Who code fixed now shows ratio of visible~
+Anko~
+02/16/2006~
+Code~
+1140150416
+
+All minor items are autoclaimed~
+Anko~
+02/16/2006~
+Code~
+1140150421
+
+Do not save rares or basics if i see alot in pfiles i will just delete the whole pfile. i will be working on a fix for this problem tomorrow SO DO NOT STORE UNNEEDED RARES OR BASICS~
+Flurrytwo~
+02/16/2006~
+Rule~
+1140157421
+
+Class bits changed, this means you will have a little class error when u log, tell me what u were and i'll set u back. had to do this to allow for more classes.~
+Xrakisis~
+02/18/2006~
+Code~
+1140277503
+
+UK & Blademasters damage modifier lowered.~
+Xrakisis~
+02/18/2006~
+Code~
+1140288116
+
+combatstyles fixed~
+Xrakisis~
+02/18/2006~
+Code~
+1140294417
+
+Shinobi added to Selfclass, syntax selfclass shinobi type~
+Xrakisis~
+02/19/2006~
+Code~
+1140365840
+
+dragon added to selfclass, syntax selfclass dragon color~
+Xrakisis~
+02/19/2006~
+Code~
+1140365859
+
+Zombies, Dragons and Shinobis are PROHIBITED from engaging in PK until furthar notice.~
+Xrakisis~
+02/19/2006~
+Rule~
+1140365889
+
+chakra now saves.~
+Xrakisis~
+02/19/2006~
+Code~
+1140370028
+
+shinobi gen name fixed, now shows up.~
+Xrakisis~
+02/19/2006~
+Code~
+1140370061
+
+Greater Blue Lightsaber now sold at jedi Crecall~
+Xrakisis~
+02/19/2006~
+Area~
+1140370953
+
+Priest number_attacks changed~
+Xrakisis~
+02/19/2006~
+Code~
+1140372473
+
+dragon, shinobi, zombie help files put in~
+Xrakisis~
+02/19/2006~
+Area~
+1140372744
+
+fixed a who bug~
+Xrakisis~
+02/19/2006~
+Code~
+1140377908
+
+fixed dragons not getting bones~
+Xrakisis~
+02/19/2006~
+Code~
+1140394812
+
+Lowered the HUGE rediculous bonus from chakra to dr and hr~
+Xrakisis~
+02/19/2006~
+Code~
+1140394971
+
+Shinobi Rank fixed~
+Xrakisis~
+02/19/2006~
+Code~
+1140395145
+
+Races put in.. 24 of them. will be greatly expanded upon.~
+Xrakisis~
+02/23/2006~
+Code~
+1140729322
+
+gainlevel command put in, you can gain up to 200 race levels..~
+Xrakisis~
+02/23/2006~
+Code~
+1140729341
+
+ability score maxes are now dependant upon your race.~
+Xrakisis~
+02/23/2006~
+Code~
+1140729356
+
+Now powers from practice have a race level assigned to their usage. Until you achieve this level you cant cast the spell. neener. All the spells are going to be made more powerful and more practical. :)~
+Xrakisis~
+02/23/2006~
+Code~
+1140729665
+
+practice replaced.~
+Xrakisis~
+02/23/2006~
+Code~
+1140733221
+
+practice points for practice command are no longer primal. you now gain 6-8 practice points upon raising a race level~
+Xrakisis~
+02/23/2006~
+Code~
+1140733253
+
+Race names now in who to replace pk names~
+Xrakisis~
+02/23/2006~
+Code~
+1140734314
+
+Selfrace and gainlevel commands available to players.~
+Xrakisis~
+02/23/2006~
+Code~
+1140734422
+
+now practice points will save.~
+Xrakisis~
+02/23/2006~
+Code~
+1140739790
+
+bug with practice fixed.~
+Xrakisis~
+02/23/2006~
+Code~
+1140740216
+
+cost of training ability scores fixed.~
+Xrakisis~
+02/23/2006~
+Code~
+1140743061
+
+every race level is +5 damcap~
+Xrakisis~
+02/23/2006~
+Code~
+1140746705
+
+Magic Missile upped.~
+Xrakisis~
+02/23/2006~
+Code~
+1140749437
+
+Stances, Dragon, Tiger, Monkey, Swallow, Bull, Mantis replaced with Badger, Cougar, Wolverine, Grizzly, Pitbull, Hawk.~
+Xrakisis~
+02/24/2006~
+Code~
+1140812442
+
+Weapon types in level changed.~
+Xrakisis~
+02/24/2006~
+Code~
+1140812455
+
+Upped kender ability score maxes.~
+Xrakisis~
+02/25/2006~
+Code~
+1140879530
+
+Toughness removed.~
+Xrakisis~
+02/25/2006~
+Code~
+1140881952
+
+Damage resistance aspect of toughness integrated into Race Level.~
+Xrakisis~
+02/25/2006~
+Code~
+1140881972
+
+Race level now shows up in score.~
+Xrakisis~
+02/25/2006~
+Code~
+1140881985
+
+Weapon proficiencys in.~
+Xrakisis~
+02/25/2006~
+Code~
+1140890360
+
+save bug with weapon profs fixed.~
+Xrakisis~
+02/25/2006~
+Code~
+1140890371
+
+to cast ident you now only need level 5~
+Xrakisis~
+02/25/2006~
+Code~
+1140908975
+
+ident cheaper, selling basics gives you more bones~
+Xrakisis~
+02/25/2006~
+Code~
+1140909756
+
+rank bones cost reduced~
+Xrakisis~
+02/25/2006~
+Code~
+1140911802
+
+You can practice spells up to 75 percent and after that they go up by oen each casting til 100.~
+Xrakisis~
+02/26/2006~
+Code~
+1140960173
+
+doubled the ammount of exp needed for gainlevel and removed the cost of bones.~
+Xrakisis~
+02/26/2006~
+Code~
+1140961195
+
+the training mobs each have a differant attack type, and none have unarmed. now you can get resistance (syntax:resist) while you train.~
+Xrakisis~
+02/26/2006~
+Area~
+1140966772
+
+Now you can objsell sigils~
+Xrakisis~
+02/26/2006~
+Code~
+1140969345
+
+Skyblade Heavenlyrain and Dragonx raised.~
+Xrakisis~
+02/27/2006~
+Code~
+1141055027
+
+fixed blademasters not gaining generations~
+Xrakisis~
+02/27/2006~
+Code~
+1141080100
+
+vamp spit upped~
+Xrakisis~
+02/27/2006~
+Code~
+1141080405
+
+fixed paladin leap~
+Xrakisis~
+02/27/2006~
+Code~
+1141081488
+
+Dragon Mastery in~
+Xrakisis~
+02/28/2006~
+Code~
+1141138632
+
+Races help file in :)~
+Xrakisis~
+02/28/2006~
+Area~
+1141147493
+
+Upgraded our account with arthmoor.~
+Xrakisis~
+03/01/2006~
+Code~
+1141231598
+
+drow and ninja powers now have the correct number assigned to them.~
+Xrakisis~
+03/01/2006~
+Code~
+1141253054
+
+Convert command in~
+Xrakisis~
+03/02/2006~
+Code~
+1141311271
+
+RacePowers command in~
+Xrakisis~
+03/02/2006~
+Code~
+1141311323
+
+Weaponenhance, Armorenhance, Mistform, Flameblade Race powers in.~
+Xrakisis~
+03/02/2006~
+Code~
+1141311367
+
+quest2 variable added to save file for paladinbless, enhanced, flameblade, breathforged, and shinobi flags~
+Xrakisis~
+03/02/2006~
+Code~
+1141311592
+
+Zombies get flesh points similiar to other classes getting class points now~
+Xrakisis~
+03/02/2006~
+Code~
+1141317844
+
+ascension IN. once level 200 you can pick Arch-Demon or Arch-Angel for your race.~
+Xrakisis~
+03/03/2006~
+Code~
+1141402349
+
+the 2 ascended races now have 110 ability score caps~
+Xrakisis~
+03/03/2006~
+Code~
+1141402575
+
+GoblinGrenade area attack skill in for goblins and Hobgoblins~
+Xrakisis~
+03/03/2006~
+Code~
+1141417316
+
+Gnomes now have a Supreme travel, airshiptravel and goblins/hobgoblins now have an area attack, goblingrenade~
+Xrakisis~
+03/03/2006~
+Code~
+1141421468
+
+now when you sac a corpse it goes to one of the Dragonlance Pantheon Gods~
+Xrakisis~
+03/04/2006~
+Code~
+1141517511
+
+paladin mastery in~
+Xrakisis~
+03/04/2006~
+Code~
+1141527048
+
+Superberserk in for a bunch of races~
+Xrakisis~
+03/05/2006~
+Code~
+1141586936
+
+infravision added for a bunch of races~
+Xrakisis~
+03/05/2006~
+Code~
+1141590297
+
+Zombie command for Vampire's fixed~
+Hutoshi~
+03/05/2006~
+Code~
+1141603169
+
+Zombiesight for zombies is now zsight~
+Hutoshi~
+03/05/2006~
+Code~
+1141603183
+
+Shinobi invis bug fixed.~
+Hutoshi~
+03/05/2006~
+Code~
+1141603191
+
+Fixed race commands.  Can no longer use them while mortally wounded.~
+Hutoshi~
+03/05/2006~
+Code~
+1141603716
+
+Dragon's regen now working properly.~
+Hutoshi~
+03/05/2006~
+Code~
+1141605575
+
+Expanded what each god does for you in sacrifice for corpses~
+Xrakisis~
+03/11/2006~
+Code~
+1142123780
+
+Now rares are a lot rarer but theyre also better, instead of 150-200 dam/hit chance its 180-200... 1-2000 chance of loading instead of like 1-600 i think it was before~
+Xrakisis~
+03/12/2006~
+Code~
+1142180793
+
+Shinobis now have a Katana, its their Mastery and they can use Shoju on it.~
+Xrakisis~
+03/13/2006~
+Code~
+1142290503
+
+Race power tremble added in for Ogre, Half-Ogre, Giant and Minotaur~
+Ashur~
+03/13/2006~
+Code~
+1142294201
+
+now berserk improves with its use.~
+Xrakisis~
+03/13/2006~
+Code~
+1142296589
+
+fixed weapon profs so u cant gain the same one twice.~
+Xrakisis~
+03/14/2006~
+Code~
+1142346376
+
+removed a bug from racepowers~
+Xrakisis~
+03/14/2006~
+Code~
+1142367381
+
+blademaster ammount of lightningslashes lowered~
+Xrakisis~
+03/14/2006~
+Code~
+1142377124
+
+new help file in, cotn/gainlevel/proficiencies/racepowers~
+Xrakisis~
+03/16/2006~
+Area~
+1142543448
+
+Racepower "Pirate" now in for Kender race~
+Ashur~
+03/22/2006~
+Code~
+1143061442
+
+now its easier to kill newbie mobs~
+Xrakisis~
+08/25/2009~
+Code~
+1251242838
+
+superberserk now works while fighting~
+Xrakisis~
+08/25/2009~
+Code~
+1251247376
+
+put in %2.0f for gainlevel and rank in place of %d since thats what ch->exp uses, so wont give a neg readout~
+Xrakisis~
+08/26/2009~
+Code~
+1251295869
+
+removed Astinus from the gods you sacrifice to, since hes Gileans mortal~
+Xrakisis~
+08/26/2009~
+Code~
+1251298920
+
+some stuff fixed with Sacrifice~
+Xrakisis~
+08/26/2009~
+Code~
+1251303686
+
+Rom style practice replaced with the regular godwars one~
+Xrakisis~
+08/26/2009~
+Code~
+1251304381
+
+toughness put back in~
+Xrakisis~
+08/27/2009~
+Code~
+1251408937
+
+modified convert, no limit on how much u can convert, before if more than 1bill exp wouldnt work. Instead of 2.5K bones for 1bill exp, its 20K bones for 2bill exp~
+Xrakisis~
+08/28/2009~
+Code~
+1251476886
+
+new gain screen for uk's~
+Xrakisis~
+08/28/2009~
+Code~
+1251501539
+
+now you can change which hand you favor~
+Xrakisis~
+08/28/2009~
+Code~
+1251501561
+
+soulsuck is no longer evil only~
+Xrakisis~
+08/29/2009~
+Code~
+1251556439
+
+Basic and Rare shields will now load~
+Xrakisis~
+08/29/2009~
+Code~
+1251557352
+
+Draconian, Dragon, and Shappie breaths are now usable while standing or fighting~
+Xrakisis~
+08/29/2009~
+Code~
+1251589895
+
+put breath before breathforge in the interp table so shappies can now use breath skill~
+Xrakisis~
+08/29/2009~
+Code~
+1251590657
+
+Blademasters upped~
+Xrakisis~
+08/30/2009~
+Code~
+1251647547
+
+my symbiote system put in~
+Xrakisis~
+08/31/2009~
+Code~
+1251729360
+
+Legion Clan Hall redone~
+Xrakisis~
+08/31/2009~
+Area~
+1251736312
+
+cotn ascii pic in who redone~
+Xrakisis~
+09/01/2009~
+Code~
+1251817435
+
+put in attacks to body locations~
+Xrakisis~
+09/01/2009~
+Code~
+1251820270
+
+Shapeshifter Hydra Breath lag reduced by 50 percent~
+Xrakisis~
+09/01/2009~
+Code~
+1251822740
+
+Fire Breath spell (hydra breath) Damage increased, Shappie only~
+Xrakisis~
+09/01/2009~
+Code~
+1251822765
+
+my Antipaladin class put in~
+Xrakisis~
+09/01/2009~
+Code~
+1251827845
+
+put in AP helpfile~
+Xrakisis~
+09/01/2009~
+Area~
+1251827923
+
+UK ride no longer uses move points~
+Xrakisis~
+09/01/2009~
+Code~
+1251833644
+
+sigil damage now checks if the victims is actually alive, if so it'll give em a hurtin. Before it would double (or more) kill the mob and give more exp~
+Xrakisis~
+09/01/2009~
+Code~
+1251834067
+
+Shappie mistwalk no longer uses move points~
+Xrakisis~
+09/01/2009~
+Code~
+1251834248
+
+modified research~
+Xrakisis~
+09/01/2009~
+Code~
+1251834732
+
+modified train~
+Xrakisis~
+09/01/2009~
+Code~
+1251834812
+
+objsell now gives more bones for rares~
+Xrakisis~
+09/01/2009~
+Code~
+1251839218
+
+Anti-Paladins should be able to gain class points now~
+Xrakisis~
+09/01/2009~
+Code~
+1251842577
+
+AP CP put in score~
+Xrakisis~
+09/01/2009~
+Code~
+1251843279
+
+AP gentitle aligned in who~
+Xrakisis~
+09/01/2009~
+Code~
+1251843562
+
+small bug with ap fixed~
+Xrakisis~
+09/01/2009~
+Code~
+1251843691
+
+i doctored the training mobs (recall, 2n, 2u) so that they all have differant attack types, so u can build resistances~
+Xrakisis~
+09/01/2009~
+Area~
+1251845218
+
+put in my damaged eq meter~
+Xrakisis~
+09/01/2009~
+Code~
+1251852515
+
+fixed some things in the interp table with werewolf powers~
+Xrakisis~
+09/02/2009~
+Code~
+1251894792
+
+put in my vamp_bite function. Now vampires auto-bite for damage and blood~
+Xrakisis~
+09/02/2009~
+Code~
+1251903855
+
+smokescreen skill given to Thief~
+Xrakisis~
+09/02/2009~
+Code~
+1251905484
+
+Damnation given to Demons~
+Xrakisis~
+09/02/2009~
+Code~
+1251905496
+
+favorclear put in~
+Xrakisis~
+09/02/2009~
+Code~
+1251905506
+
+gale given to elementals~
+Xrakisis~
+09/02/2009~
+Code~
+1251905517
+
+kshow put in~
+Xrakisis~
+09/02/2009~
+Code~
+1251905536
+
+removed the shappie dam mod from fire_breath spell, was making it uber~
+Xrakisis~
+09/02/2009~
+Code~
+1251914326
+
+werewolves no longer drop weapons from rage~
+Xrakisis~
+09/02/2009~
+Code~
+1251915079
+
+now WW's rage and calm more easily~
+Xrakisis~
+09/02/2009~
+Code~
+1251915564
+
+i doctored the object flags in look, now all the flags will show up~
+Xrakisis~
+09/02/2009~
+Code~
+1251915804
+
+removed (Damaged) flag, since theres the meter and all~
+Xrakisis~
+09/02/2009~
+Code~
+1251915920
+
+the DR/HR cap is now 10K, no longer 7K~
+Xrakisis~
+09/02/2009~
+Code~
+1251921383
+
+put in my Xcenter balancing utility~
+Xrakisis~
+09/02/2009~
+Code~
+1251928305
+
+small bug with Xcenter fixed~
+Xrakisis~
+09/03/2009~
+Code~
+1251984661
+
+Enabled sell command~
+Xrakisis~
+09/03/2009~
+Code~
+1251990735
+
+now favorclear is after favor in interp.c~
+Xrakisis~
+09/03/2009~
+Code~
+1251995700
+
+put in maxgnosis for WWs~
+Xrakisis~
+09/03/2009~
+Code~
+1252000538
+
+replaced the MC 3 leaderboard code with that from COTN 2.5~
+Xrakisis~
+09/03/2009~
+Code~
+1252005931
+
+drow dagger mastery replaced with Mark of Lloth~
+Xrakisis~
+09/04/2009~
+Code~
+1252076937
+
+a bug with antipaladin dodge in xcenter fixed~
+Xrakisis~
+09/04/2009~
+Code~
+1252080091
+
+Player parry/dodge now settable in Xcenter~
+Xrakisis~
+09/04/2009~
+Code~
+1252080248
+
+put zombie help file in~
+Xrakisis~
+09/05/2009~
+Area~
+1252164498
+
+gave store skill back to Zombies~
+Xrakisis~
+09/05/2009~
+Code~
+1252165283
+
+haunt given back to Zombies~
+Xrakisis~
+09/05/2009~
+Code~
+1252165385
+
+Fleshportal lag removed.~
+Xrakisis~
+09/05/2009~
+Code~
+1252168707
+
+zombie damage resistance fixed~
+Xrakisis~
+09/05/2009~
+Code~
+1252169318
+
+put in zombie mastery~
+Xrakisis~
+09/06/2009~
+Code~
+1252248728
+
+bug with the names of zombie autos not showing fixed~
+Xrakisis~
+09/06/2009~
+Code~
+1252249678
+
+now trolls get toughskin~
+Xrakisis~
+09/06/2009~
+Code~
+1252249789
+
+bug with AP in finger fixed, Zombie class added to finger~
+Xrakisis~
+09/06/2009~
+Code~
+1252250142
+
+Zombies no longer recieve flesh points twice. ~
+Xrakisis~
+09/06/2009~
+Code~
+1252273059
+
+now zombies autosac~
+Xrakisis~
+09/06/2009~
+Code~
+1252273146
+
+zombie shatter damage reduced by 50 percent~
+Xrakisis~
+09/06/2009~
+Code~
+1252288164
+
+forsake for zombies now named zombieforsake, due to a conflict with the religion command~
+Xrakisis~
+09/09/2009~
+Code~
+1252513657
+
+since its 200K just to max symbiote damroll there is no longer a limit on symbioteadvance~
+Xrakisis~
+09/09/2009~
+Code~
+1252530289
+
+now the things in Symbioteadvance max out at 2K~
+Xrakisis~
+09/09/2009~
+Code~
+1252530799
+
+now shatter does 1K-5K damage~
+Xrakisis~
+09/09/2009~
+Code~
+1252531786
+
+worked on who a bit~
+Xrakisis~
+09/10/2009~
+Code~
+1252611291
+
+blademaster parry upped~
+Xrakisis~
+09/10/2009~
+Code~
+1252611873
+
+worked on the greet a bit~
+Xrakisis~
+09/10/2009~
+Area~
+1252614766
+
+who brightened up a bit~
+Xrakisis~
+09/15/2009~
+Code~
+1253022730
+
+max level of familiar raised~
+Xrakisis~
+09/15/2009~
+Code~
+1253056330
+
+exp required for familiars to level reduced~
+Xrakisis~
+09/16/2009~
+Code~
+1253122357
+
+now Kingdom Generals can kwithdraw~
+Xrakisis~
+09/16/2009~
+Code~
+1253123179
+
+took some color out of sacrifice for Paladine and Takhisis~
+Xrakisis~
+09/16/2009~
+Code~
+1253123612
+
+now AP mounts hp is set to the aps, not 100 times red magic~
+Xrakisis~
+09/17/2009~
+Code~
+1253230788
+
+now you dont have to be immortal to use mount~
+Xrakisis~
+09/17/2009~
+Code~
+1253230802
+
+ACT_MOUNT now set for nightmare~
+Xrakisis~
+09/17/2009~
+Code~
+1253230818
+
+when corpses or body parts/food decompose now you get the message is devoured by a #yswarm#n of #omaggots#n~
+Xrakisis~
+09/18/2009~
+Code~
+1253310787
+
+fixed Shinobi Jutsus Butomi~
+Xrakisis~
+09/19/2009~
+Code~
+1253404393
+
+shinobi dodge raised~
+Xrakisis~
+09/19/2009~
+Code~
+1253404552
+
+zombie, UK, Samrai parry/dodge raised~
+Xrakisis~
+09/19/2009~
+Code~
+1253404631
+
+lag taken off afk~
+Xrakisis~
+09/21/2009~
+Code~
+1253574200
+
+bones limit taken off platinum bank membership~
+Xrakisis~
+09/21/2009~
+Code~
+1253574220
+
+put in AP mastery~
+Xrakisis~
+09/22/2009~
+Code~
+1253630258
+
+allowed each class's damcap to be set with xcenter~
+Xrakisis~
+09/22/2009~
+Code~
+1253630649
+
+put my shieldblock code in. similar to parry/dodge~
+Xrakisis~
+09/22/2009~
+Code~
+1253631415
+
+mobs no longer shield block if they dont have a shield~
+Xrakisis~
+09/22/2009~
+Code~
+1253631559
+
+now brief3 hides shield blocks~
+Xrakisis~
+09/22/2009~
+Code~
+1253631645
+
+Levels, Symbiotes, Proficiencies, Racepowers and Rare help files put in~
+Xrakisis~
+09/22/2009~
+Code~
+1253647630
+
+help cotn entry updated~
+Xrakisis~
+09/22/2009~
+Code~
+1253647712
+
+now badgers level a little slower~
+Xrakisis~
+09/22/2009~
+Code~
+1253650283
+
+Artifacts now randomly load~
+Xrakisis~
+09/24/2009~
+Code~
+1253798794
+
+Rare weapons are now average dam 75-125. Get rid of your old ones, if you give your old one to me i'll id it, to see the sigils and reimb you the sigils~
+Xrakisis~
+09/24/2009~
+Code~
+1253801255
+
+those who keep old rare weapons will be severly punished~
+Xrakisis~
+09/24/2009~
+Rule~
+1253801283
+
+Plagues now have haste, not create food~
+Xrakisis~
+09/24/2009~
+Area~
+1253802233
+
+help races updated~
+Xrakisis~
+09/24/2009~
+Code~
+1253802485
+
+identify modified. now it shows sigil names above the numbers~
+Xrakisis~
+09/24/2009~
+Code~
+1253803320
+
+now lichs golems have same hp as the lich~
+Xrakisis~
+09/25/2009~
+Code~
+1253888087
+
+help cotn updated, help familiars put in~
+Xrakisis~
+09/25/2009~
+Area~
+1253893591
+
+upped AP Takhisis's Aura~
+Xrakisis~
+09/26/2009~
+Code~
+1253970046
+
+help cotn updated~
+Xrakisis~
+09/27/2009~
+Area~
+1254083552
+
+Hilts now sold at Jewellers~
+Xrakisis~
+09/27/2009~
+Area~
+1254083621
+
+now blademaster class shows up in finger~
+Xrakisis~
+09/27/2009~
+Code~
+1254083897
+
+fixed the way blademasters gain their powers, not nearly as easy now~
+Xrakisis~
+09/27/2009~
+Code~
+1254085666
+
+fixed more problems with Blademasters~
+Xrakisis~
+09/27/2009~
+Code~
+1254086107
+
+blade exp dropped from 200 million to 2 million per level, after all thers 60~
+Xrakisis~
+09/27/2009~
+Code~
+1254086328
+
+blademasters no longer gain exp past being maxed~
+Xrakisis~
+09/27/2009~
+Code~
+1254086672
+
+weaponenhance and armorenhance no longer give oset messages~
+Xrakisis~
+09/28/2009~
+Code~
+1254168873
+
+changed some colors with exping~
+Xrakisis~
+09/29/2009~
+Code~
+1254236410
+
+more cosmetic work done~
+Xrakisis~
+09/29/2009~
+Code~
+1254236893
+
+help cotn updated~
+Xrakisis~
+09/29/2009~
+Area~
+1254241944
+
+now players who decap or tiercap get a full restore afterwards~
+Xrakisis~
+09/29/2009~
+Code~
+1254249004
+
+put in mightrate based titles in who instead of race~
+Xrakisis~
+09/29/2009~
+Code~
+1254250673
+
+who aligned for new changes~
+Xrakisis~
+09/29/2009~
+Code~
+1254250847
+
+rank now affects mightrate~
+Xrakisis~
+09/29/2009~
+Code~
+1254250939
+
+now the order of who is based on mightrate~
+Xrakisis~
+09/29/2009~
+Code~
+1254251673
+
+now symbiote attributes affect mightrate~
+Xrakisis~
+09/29/2009~
+Code~
+1254252641
+
+added allwere and allvamp to pset so i can set a players discs if they are maxed and i change their class~
+Xrakisis~
+09/29/2009~
+Code~
+1254254247
+
+reduced the bonus from symbiote stuff with mightrate by 50 percent, so people wont be almighty so easily~
+Xrakisis~
+09/29/2009~
+Code~
+1254254371
+
+raised vampire weaponlevels by 100~
+Xrakisis~
+09/29/2009~
+Code~
+1254254870
+
+help mightrate put in, help cotn updated~
+Xrakisis~
+09/30/2009~
+Area~
+1254326507
+
+racelevel and rank give less mightrate points now~
+Xrakisis~
+09/30/2009~
+Code~
+1254326581
+
+Blademasters given Jugular Slice, as a new auto-attack~
+Xrakisis~
+09/30/2009~
+Code~
+1254329300
+
+WW's attacking with no weapons should no longer crash the mud~
+Xrakisis~
+10/01/2009~
+Code~
+1254407572
+
+lowered WW rage~
+Xrakisis~
+10/02/2009~
+Code~
+1254504457
+
+help convert put in, help cotn updated~
+Xrakisis~
+10/02/2009~
+Area~
+1254505082
+
+help dragons put in~
+Xrakisis~
+10/03/2009~
+Area~
+1254585955
+
+shadow entry added to help class~
+Xrakisis~
+10/03/2009~
+Area~
+1254586207
+
+selfracing Troll no longer tells you your a half-troll~
+Xrakisis~
+10/03/2009~
+Code~
+1254586896
+
+Shadow class added to Xcenter, DC, Parry, Dodge, numberattacks, wpnlevels all set~
+Xrakisis~
+10/03/2009~
+Code~
+1254587061
+
+score re-arranged~
+Xrakisis~
+10/03/2009~
+Code~
+1254587254
+
+Shadow stuff put in update_damcap, check_parry, check_dodge, number_attacks, and weapon stuff~
+Xrakisis~
+10/03/2009~
+Code~
+1254588494
+
+malice, takaura and jugular slice damage mods put in~
+Xrakisis~
+10/04/2009~
+Code~
+1254688272
+
+now shinobis get 1 extra hit from their auto attacks and there is a good damage modifier for their autos~
+Xrakisis~
+10/04/2009~
+Code~
+1254690743
+
+rewrote parts of barmor and pblade for paladin, uses add_apply instead of oset, it was missing returns at the end etc~
+Xrakisis~
+10/05/2009~
+Code~
+1254752185
+
+priest travel no longer has move penalty~
+Xrakisis~
+10/05/2009~
+Code~
+1254773226
+
+put in new banners for top, leader and bountylist~
+Xrakisis~
+10/06/2009~
+Code~
+1254845226
+
+i put in my player desc code.~
+Xrakisis~
+10/06/2009~
+Code~
+1254846997
+
+dgem for dragons now makes gems of 0 value~
+Xrakisis~
+10/06/2009~
+Code~
+1254855799
+
+Mercy put in, for when 0 status people try to kill you~
+Xrakisis~
+10/06/2009~
+Code~
+1254855978
+
+now players can see the parry, dodge, number attacks, damcap and weaponlevels of every class, only i can change them, type xcenter~
+Xrakisis~
+10/06/2009~
+Code~
+1254862917
+
+some balancing done~
+Xrakisis~
+10/06/2009~
+Code~
+1254863845
+
+now xcenter affects hobbit and fae wpn levels~
+Xrakisis~
+10/07/2009~
+Code~
+1254937073
+
+now samurai wpn levels get a gen bonus, raised the cap~
+Xrakisis~
+10/07/2009~
+Code~
+1254937109
+
+the freezing problem might be fixed~
+Xrakisis~
+10/12/2009~
+Code~
+1255373832
+
+Antipaladin Flamestrike and Layonhands lowered drasticly~
+Xrakisis~
+10/12/2009~
+Code~
+1255376433
+
+Antipaladin max Potentia dropped from 1000 to 500, it gives bonuses to AP skills, and decreases with use of said skills~
+Xrakisis~
+10/12/2009~
+Code~
+1255389774
+
+Exp worked on, lowered so it wont hit cap every time~
+Xrakisis~
+10/13/2009~
+Code~
+1255481086
+
+put #0-=#7[ Spell Affects ]#0=-#n in affects~
+Xrakisis~
+10/13/2009~
+Code~
+1255482252
+
+now the sword of prosperity will train ya~
+Xrakisis~
+10/15/2009~
+Area~
+1255638714
+
+worked on Mightrate~
+Xrakisis~
+10/16/2009~
+Code~
+1255732037
+
+now status affects Mightrate~
+Xrakisis~
+10/16/2009~
+Code~
+1255732253
+
+AP Potentia now shows up in score~
+Xrakisis~
+10/16/2009~
+Code~
+1255733101
+
+help cotn and motd updated, help ascension put in~
+Xrakisis~
+10/17/2009~
+Code~
+1255786857
+
+zombie lowered a little~
+Xrakisis~
+10/17/2009~
+Code~
+1255790731
+
+all the jedi mid-rounders raised~
+Xrakisis~
+10/17/2009~
+Code~
+1255793003
+
+more cosmetic work done~
+Xrakisis~
+10/17/2009~
+Code~
+1255793915
+

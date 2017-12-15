@@ -1,0 +1,167 @@
+#AREADATA
+Name        Legion~
+Builders    Artemis Pizzaman Moraugh~
+Music       default.mid~
+VNUMs       40400 40499
+Cvnum       0
+Security    1
+Areabits    0
+SecType  32
+WeatAl  1024
+End
+
+
+
+#MOBILES
+#40400
+Guardian of star~
+#GG#gu#0a#7r#gd#Gi#0a#7n #0of #7(#GL#gE#7G#0I#gO#GN#7)#n~
+#GG#gu#0a#7r#gd#Gi#0a#7n #0of #7(#GL#gE#7G#0I#gO#GN#7)#n
+~
+~
+100355 0 0
+3999 100 20 3
+1 3
+0
+0
+#40401
+healer legion~
+#GH#ge#7a#0l#ge#Gr #0of #7(#GL#gE#7G#0I#gO#GN#7)#n~
+#GH#ge#7a#0l#ge#Gr #0of #7(#GL#gE#7G#0I#gO#GN#7)#n
+~
+~
+101395 268435624 1000
+4015 100 20 3
+1 0
+0
+0
+#40402
+nightmare healer~
+#LMy#Cs#Wid#Ci#Lan H#Ce#Wal#Ce#Lr#n~
+#LMy#Cs#Wid#Ci#Lan H#Ce#Wal#Ce#Lr#n
+~
+~
+101395 268435624 0
+3978 100 20 3
+0 0
+0
+0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#40400
+Kingdom of LEGION~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 40403
+D5
+~
+~
+0 0 2172
+S
+#40401
+Legion Bank~
+~
+4096 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 40402
+D2
+~
+~
+0 0 40403
+S
+#40402
+Alter to Kiri-Jolith~
+~
+8 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D2
+~
+~
+0 0 40401
+S
+#40403
+The Legion Throne Room~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 40401
+D1
+~
+~
+0 0 40404
+D2
+~
+~
+0 0 40405
+D3
+~
+~
+0 0 40400
+S
+#40404
+Legion Shop~
+~
+1024 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D3
+~
+~
+0 0 40403
+S
+#40405
+Legion Quarters~
+~
+1024 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 40403
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#SPECIALS
+M 40400 spec_guard_two
+M 40401 spec_cast_adept
+M 40402 spec_cast_adept
+S
+
+
+
+#RESETS
+M 0 40400 1 40400
+M 0 40401 1 40402
+S
+
+
+
+#$
